@@ -1,0 +1,6 @@
+# commented text, 
+# this is a bit stupid... 
+# but you have to learn some way or the other... 
+puts "this will not be commented"
+
+#puts "but this will"
